@@ -62,11 +62,22 @@ El flujo de trabajo realizado fue:
 
 Los valores de pendiente media obtenidos en los polígonos con estadísticas válidas se encuentran aproximadamente entre 4,3° y 7,2°.
 
-El valor máximo registrado en uno de los polígonos alcanzó aproximadamente 28,2°, mostrando que los valores extremos pueden ser considerablemente superiores a la pendiente media.
+El valor máximo de pendiente registrado en uno de los polígonos alcanzó aproximadamente 28,2°, mostrando que dentro de algunas unidades de suelo existen sectores con pendientes considerablemente superiores a la pendiente media.
 
 La unidad CAz1 presentó una pendiente media aproximada de 7,2°, mientras que Fra4 presentó aproximadamente 4,3°.
 
 Los valores nulos de algunas unidades fueron conservados como datos sin estadística zonal disponible y no fueron interpretados como pendientes de 0°.
+
+## Capturas del proceso
+
+### 1. Relieve, sombreado y curvas de nivel
+![Relieve, sombreado y curvas de nivel](01_relieve_cerro_azul.png)
+
+### 2. Pendiente y suelos
+![Pendiente y suelos](02_pendiente_suelos_cerro_azul.png)
+
+### 3. Estadísticas zonales
+![Estadísticas zonales de pendiente](03_estadisticas_suelos_cerro_azul.png)
 
 ## Productos generados
 
